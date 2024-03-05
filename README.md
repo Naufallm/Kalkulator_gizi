@@ -11,4 +11,6 @@ Pada bagian depan, user akan melihat 2 opsi yaitu untuk menghitung berat badan d
 Pada bagian ini, user akan memasukan berat (dalam kg) dan tinggi (dalam cm)
 
 ## Tampilan Materi
+![materigizi](https://github.com/Naufallm/Kalkulator_gizi/assets/130893000/41ea179a-1b0a-4ca3-9b56-2c38ea5fd28c)
+
 Disini user dapat melihat materi dasar terkait gizi dari segi berat badan dan juga IMT
